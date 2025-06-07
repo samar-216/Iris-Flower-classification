@@ -4,7 +4,7 @@ This project classifies iris flowers into three species — *Setosa*, *Versicolo
 
 ## 📊 Dataset
 
-The project uses the famous [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris), which contains 150 samples with 4 features:
+The project uses the famous [Iris dataset], which contains 150 samples with 4 features:
 
 - Sepal Length
 - Sepal Width
